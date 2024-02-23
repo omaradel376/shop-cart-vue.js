@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "h3": "product 1",
+      "description": "this is description text for testing",
+      "url": "../assets/product_1.png"
+    },
+    {
+      "id": "2",
+      "h3": "product 2",
+      "description": "this is description text for testing",
+      "url": "../assets/product_2.png"
+    },
+    {
+      "id": "3",
+      "h3": "product 3",
+      "description": "this is description text for testing",
+      "url": "../assets/product_3.png"
+    },
+    {
+      "id": "4",
+      "h3": "product 4",
+      "description": "this is description text for testing",
+      "url": "../assets/product_4.png"
+    },
+    {
+      "id": "5",
+      "h3": "product 5",
+      "description": "this is description text for testing",
+      "url": "../assets/product_5.png"
+    },
+    {
+      "id": "6",
+      "h3": "product 6",
+      "description": "this is description text for testing",
+      "url": "../assets/product_6.png"
+    },
+    {
+      "id": "7",
+      "h3": "product 7",
+      "description": "this is description text for testing",
+      "url": "../assets/product_7.png"
+    },
+    {
+      "id": "8",
+      "h3": "product 8",
+      "description": "this is description text for testing",
+      "url": "../assets/product_8.png"
+    },
+    {
+      "id": "9",
+      "h3": "product 9",
+      "description": "this is description text for testing",
+      "url": "../assets/product_9.png"
+    },
+    {
+      "id": "10",
+      "h3": "product 10",
+      "description": "this is description text for testing",
+      "url": "../assets/product_10.png"
+    },
+    {
+      "id": "11",
+      "h3": "product 11",
+      "description": "this is description text for testing",
+      "url": "../assets/product_11.png"
+    },
+    {
+      "id": "12",
+      "h3": "product 12",
+      "description": "this is description text for testing",
+      "url": "../assets/product_12.png"
+    },
+    {
+      "id": "13",
+      "h3": "product 13",
+      "description": "this is description text for testing",
+      "url": "../assets/product_13.png"
+    },
+    {
+      "id": "14",
+      "h3": "product 14",
+      "description": "this is description text for testing",
+      "url": "../assets/product_14.png"
+    },
+    {
+      "id": "15",
+      "h3": "product 15",
+      "description": "this is description text for testing",
+      "url": "../assets/product_15.png"
+    },
+    {
+      "id": "16",
+      "h3": "product 16",
+      "description": "this is description text for testing",
+      "url": "../assets/product_16.png"
+    },
+    {
+      "id": "17",
+      "h3": "product 17",
+      "description": "this is description text for testing",
+      "url": "../assets/product_17.png"
+    },
+    {
+      "id": "18",
+      "h3": "product 18",
+      "description": "this is description text for testing",
+      "url": "../assets/product_18.png"
+    }
+  ]
+}
